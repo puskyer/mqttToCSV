@@ -1,0 +1,5 @@
+paho-mqtt
+pandas
+python_weather
+asyncio
+

@@ -1,0 +1,2 @@
+Time,SI7021.Temperature,SI7021.Humidity,SI7021.DewPoint,BMP280.Temperature,BMP280.Pressure,CCS811.eCO2,CCS811.TVOC,ESP32.Temperature,PressureUnit,TempUnit
+2022-07-31T11:43:51,28.2,55.3,18.3,28.4,1011.5,2532,1850,55.6,hPa,C
